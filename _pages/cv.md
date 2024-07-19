@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Wisconsin-Madison, 2014
+  *	Thesis: Efficient Learning of Statistical Relational Models	            
+  * Advisor: Prof. Jude Shavlik Co-Advisor: Prof. Sriraam Natarajan
+* M.S. in Computer Science, University of Wisconsin-Madison, 2014
+* B.Tech. in Computer Science, National Institute Of Technology (NIT), Tiruchirappalli, 2006
+  * Gold Medalist
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lead Research Scientist, Allen Institute for AI, Seattle, WA				2023-Present
+  * Building next generation agents for complex reasoning and decision making tasks
+  * Building agent benchmarks for tool use, executing experiments, discovery
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Senior Research Scientist, Allen Institute for AI, Seattle, WA				2019-2022
+  * Built benchmarks for multi-step reasoning and question answering
+  * Built neuro-symbolic models and prompting approaches for complex reasoning tasks
+*	Research Scientist, Allen Institute for AI, Seattle, WA						2014-2018
+  * Built benchmarks and symbolic approaches for science question answering
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*	Software Engineer-II/III, Google R&D Center, Bangalore, India	 			2006-2008
+  * Launched local.google.co.in -- the first local search (YellowPages) for India
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Scala, C/C++, Java, Perl, MATLAB, Shell Scripting, Prolog, HTML
+* Technology: PyTorch, Transformers (Huggingface), OpenAI API, AllenNLP, DyNet, Microsoft Scope, Condor Grid Computing, Stanford NLP Toolkit, MapReduce, Big Table
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    
