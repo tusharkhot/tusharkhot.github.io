@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](../files/Tushar_Research_CV_2024.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, University of Wisconsin-Madison, 2014
