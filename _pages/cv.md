@@ -22,7 +22,13 @@ Education
 
 Work experience
 ======
-* Lead Research Scientist, Allen Institute for AI, Seattle, WA				2023-Present
+* Member of Technical Staff, Microsoft AI, Redmond, WA					2025-Present
+  * Worked and led efforts spanning pre-training for VLM grounding, imbuing agentic capabilities for Microsoft Excel and building a helpful coding assistant (beyond just code editing). Contributed to the final MAI-Thinking-1 model and technical report.
+
+* Staff Research Scientist, Google DeepMind, Seattle, WA					2024-2025
+  * Developing next generation of agents for Gemini that can use tools and perform multi-modal reasoning for browser use agents.
+
+* Lead Research Scientist, Allen Institute for AI, Seattle, WA				2023-2024
   * Building next generation agents for complex reasoning and decision making tasks
   * Building agent benchmarks for tool use, executing experiments, discovery
 
